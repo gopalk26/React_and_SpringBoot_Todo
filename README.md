@@ -26,12 +26,12 @@ Frontend: Contains the React frontend code, components, styles, and other relate
 
 
  >>> Provide step-by-step instructions for setting up the project locally -> React-fronted.
-    1. Navigate to the frontend folder: `cd frontend`
-    2. Install frontend dependencies: `npm install`
-    3. run the project:  npm start
+   
+   1. cd react-frontend
+   2.  npm install
+   3. run the project:  npm start
 
 >>> Provide step-by-step instructions for setting up the project locally -> SpringBoor-Backend.
->>>  Setting Up Spring Boot Backend with MySQL:
 
  1.Create a Spring Boot Project:
     
