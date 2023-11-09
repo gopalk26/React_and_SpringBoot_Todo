@@ -47,7 +47,7 @@ Frontend: Contains the React frontend code, components, styles, and other relate
           spring.jpa.hibernate.ddl-auto=update
 
 
-Replace your_database_name, your_username, and your_password with your MySQL database details.
+>>Replace your_database_name, your_username, and your_password with your MySQL database details.
 
 3.Run the Application:
 Right-click on your project, select Run As -> Spring Boot App. This will start your Spring Boot application.
