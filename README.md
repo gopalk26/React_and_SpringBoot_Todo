@@ -45,6 +45,8 @@ Frontend: Contains the React frontend code, components, styles, and other relate
            spring.datasource.username=your_username
            spring.datasource.password=your_password
           spring.jpa.hibernate.ddl-auto=update
+
+
 Replace your_database_name, your_username, and your_password with your MySQL database details.
 
 3.Run the Application:
